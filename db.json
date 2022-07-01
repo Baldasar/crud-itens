@@ -1,5 +1,14 @@
 {
   "productList": [
+    {
+      "productName": "123",
+      "category": "Eletronic",
+      "freshness": "Second Hand",
+      "price": 222,
+      "comment": "LOL",
+      "date": "0123-01-01T03:06:28.000Z",
+      "id": 2
+    }
   ],
   "comments": [
     {
